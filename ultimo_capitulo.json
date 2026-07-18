@@ -1,0 +1,65 @@
+{
+  "_nexus_scan": {
+    "last_checked_at": "2026-07-18T05:55:14.050458Z"
+  },
+  "please": {
+    "chapter_id": 392977,
+    "chapter_key": "nexus:21",
+    "source": "nexus",
+    "published_at": "2026-07-13T02:05:07.205275+02:00"
+  },
+  "sanagi": {
+    "chapter_id": 383866,
+    "chapter_key": "nexus:4",
+    "source": "nexus",
+    "published_at": "2026-05-29T22:24:21.98738+02:00"
+  },
+  "gamer": {
+    "chapter_id": 382282,
+    "chapter_key": "nexus:6",
+    "source": "nexus",
+    "published_at": "2026-05-16T19:44:47.943861+02:00"
+  },
+  "lock": {
+    "chapter_id": 329903,
+    "chapter_key": "nexus:18",
+    "source": "nexus",
+    "published_at": "2026-05-01T18:09:35.010301+02:00"
+  },
+  "metsuki": {
+    "chapter_id": 328907,
+    "chapter_key": "nexus:30",
+    "source": "nexus",
+    "published_at": "2026-05-01T14:18:46.033159+02:00"
+  },
+  "sharp": {
+    "chapter_id": 393249,
+    "chapter_key": "nexus:8",
+    "source": "nexus",
+    "published_at": "2026-07-16T20:57:21.728355+02:00"
+  },
+  "unfamiliar": {
+    "chapter_id": 392985,
+    "chapter_key": "nexus:4",
+    "source": "nexus",
+    "published_at": "2026-07-13T04:15:48.416642+02:00"
+  },
+  "dont_bully_me_naoto_san": {
+    "chapter_id": 391498,
+    "chapter_key": "nexus:1",
+    "source": "nexus",
+    "published_at": "2026-07-07T08:32:08.280911+02:00"
+  },
+  "23_4": {
+    "chapter_id": 392334,
+    "chapter_key": "nexus:1",
+    "source": "nexus",
+    "published_at": "2026-07-11T03:55:38.257677+02:00"
+  },
+  "naoto_san": {
+    "chapter_id": 391498,
+    "chapter_key": "nexus:1",
+    "source": "nexus",
+    "published_at": "2026-07-07T08:32:08.280911+02:00"
+  }
+}
